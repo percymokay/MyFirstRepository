@@ -1,8 +1,9 @@
 package team;
 
 public class HelloWorld {
-	public string hello(){
-		return "Hello";
+	public String hello(){
+		return "HelloMMMMMMMM damn ";
+		
 	}
 
 }
